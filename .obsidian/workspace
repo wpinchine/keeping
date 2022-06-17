@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "思考/如何做一篇优秀的服务端设计文档？.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "思考/如何做一篇优秀的服务端设计文档？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,10 @@
   },
   "active": "430a753fc40b05be",
   "lastOpenFiles": [
+    "思考/如何做一篇优秀的服务端设计文档？.md",
+    "问题清单/如何解决分布式数据一致性.md",
+    "在读/DDIA/存储和检索.md",
+    "在读/DDIA.md",
     "README.md"
   ]
 }
