@@ -79,6 +79,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9c8db5ca9cd1af6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
