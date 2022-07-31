@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "思考/如何做一篇优秀的服务端设计文档？.md",
+            "file": "思考/如何评审详细设计.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "972a58e1dc4bfcf2",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思考/如何做一篇优秀的服务端设计文档？.md",
+                "file": "思考/如何评审详细设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +88,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5cbd7a59fa5c9aaa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,7 +107,8 @@
   },
   "active": "430a753fc40b05be",
   "lastOpenFiles": [
-    "思考/如何做一篇优秀的服务端设计文档？.md",
+    "思考/如何评审详细设计.md",
+    "思考/单模块设计.md",
     "问题清单/如何解决分布式数据一致性.md",
     "在读/DDIA/存储和检索.md",
     "在读/DDIA.md",
